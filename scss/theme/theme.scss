@@ -1,0 +1,35 @@
+html, body {
+	height: 100%;
+}
+
+.text-gruene, .text-buehne{
+	font-size:50pt;
+	color: green;
+}
+
+.text-kollektiv {
+	font-size:30pt;
+}
+.rect, .rect2 {
+	background:green;
+	height:40px;
+	width: 40px;
+	opacity: 1;
+	position: absolute;
+}
+.rect {
+	
+	x: 0;
+	y: 0;
+}
+.rect2 {
+	position: fixed;
+	x: 0;
+	bottom: 0;
+}
+.title {
+	margin-top: 100px;
+}
+.subtitle {
+	margin-top: 20px;
+}
