@@ -23,7 +23,7 @@
   "homepage": "https://github.com/TorstenBarthel/refactored-happiness#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popmotion": "^8.7.1",
     "popper": "^1.0.1"
   },
